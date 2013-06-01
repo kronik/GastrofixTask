@@ -1,0 +1,757 @@
+# (UTF-8), ,© 2012 MapOSMatic/ocitysmap authors. Map data © 2012 OpenStreetMap.org and contributors (CC-BY-SA)
+A
+,Aberaeron Close,Q8-R8
+,Aberystwyth Crescent,L17
+,Abingdon Street,S11
+,Adar Y Mor,O21
+,Ael-Y-Coed,H16
+,Aeron Close,J15
+,Afal Sur,S7
+,Afan Close,J15
+,Albert Street,V12
+,Alexandra Crescent,K16-L15
+,Alwen Drive,H14-I14
+,Amherst Crescent,N21-O20
+,Amroth Court,O10
+,Andover Close,G10-H10
+,Aneurin Road,Q14-R13
+,Angle Close,O9
+,Archer Road,N20-N21
+,Arden Way,T10
+,Argae Lane,V5-V8
+,Arno Road,U11-U12
+,Arthur Street,V12-W12
+,Ar y Nant,Q10-R10
+,Ashby Road,AC13-AC14
+,Ash Grove,T10-U10
+,Atlantic Crescent,S18-T17
+,Atlantic Place,U10-U11
+,Atlantic Way,R19-U16
+B
+,Balmoral Court,I10-I9
+,Barrians Way,L14
+,Barry Docks Link Road,R4-Z11
+,Barry Road,AC5-L14
+,Bassett Street,R14
+,Bastian Close,T11
+,Beachway,H22
+,Beachwood,AA15-AB15
+,Beatrice Road,S13
+,Beatty Close,P8-Q8
+,Beaumont Close,H10
+,Beauville Lane,AA2-Z1
+,Bedlington Terrace,J15-K15
+,Beidr Iorwg,U8
+,Belle Vue Terrace,T12-U12
+,Bell Street,I17-J18
+,Belmont Street,P13-P14
+,Belvedere Crescent,P15-P16
+,Bendrick Road,U18-V17
+,Beryl Place,N15-N16
+,Beryl Road,N15-N16
+,Beverley Street,R11
+,Bicester Road,Y12
+,Birch Grove,H21
+,Blackberry Drive,J13-J14
+,Blackwell Close,R12
+,Blenheim Close,H10
+,Blodyn Y Gog,T8-U8
+,Blyth Close,P7
+,Boon Close,Q10
+,Borough Avenue,K10-M9
+,Bramble Avenue,J14
+,Breaksea Drive,N21-P21
+,Brecon Court,P12
+,Brenig Close,I12-I13
+,Breon Road,Z13
+,Bridge Street,S10-S11
+,Britway Road,AB3-AC2
+,Broad Close,H15
+,Broad Street,J20-M16
+,Brock,S10-S11
+,Brock Street,S11-T11
+,Bromfield Road,N20
+,Bron Awelon,F20-G19
+,Bron-Y-Mor,H22-I21
+,Brookfield Avenue,T10-U9
+,Brook Street,R14
+,Broughton Place,Q9
+,Brunel Close,V10
+,Bryanston Road,Y13-Z13
+,Brynhill Close,J10
+,Buckingham Place,I10-I9
+,Bull Cliff Walk,E20
+,Burlington Street,R14-S15
+,Burns Crescent,N9
+,Buttrills Close,M15
+,Buttrills Road,L14-N16
+,Buttrills Walk,L13-L14
+,Byron Street,O14
+C
+,Cadoc Crescent,W12-W13
+,Cae Garw,AC5
+,Cae Glas,R10-R11
+,Cae Leon,N7
+,Caer Ffynnon,I19
+,Cae'r Odyn,AC5-AC6
+,Caer Pwyll,AB5
+,Caldy Close,O10-P10
+,Cambourne Close,I10
+,Cambridge Street,H19
+,Camrose Court,O10
+,Canon Street,J19-K19
+,Caple Road,H19-I19
+,Caradoc Avenue,O12-Q12
+,Cardiff Road,AC4-T13
+,Carew Close,O10
+,Carn-Yr-Ebol,S7-S8
+,Castleland Street,Q15-Q16
+,Castle Street,I18-J18
+,Cawley Place,R11
+,Cefyn Mount,AB2-AB3
+,Cei Dafydd,P18-Q18
+,Ceiriog Close,Q10
+,Cemetery Road,N12-N13
+,Cennin Pedr,S7-T7
+,Central Way,Y13
+,Charles Darwin Way,M19-P20
+,Charles Place,J21
+,Charlotte Place,S13
+,Charter Avenue,K10-L10
+,Chaucer Road,N8-N9
+,Chesterfield Street,R11-R12
+,Chilcote Street,R12-R13
+,Churchfields,S8-T8
+,Church Road,S11-T11
+,Claude Road,J15-L14
+,Claude Road West,J15-J17
+,Cledwen Close,G14-H14
+,Clement Place,I21-J21
+,Clements Colley Walk,P21-P23
+,Cliff Wood View,E20
+,Clifton Street,J19-J20
+,Clive Place,O20-P20
+,Clive Road,M21-P20
+,Clos Cefni,H13-I13
+,Clos Celyn,S7
+,Clos Cwm Barri,G16-H16
+,Clos Llawhaden,Q8-Q9
+,Clos Mancheldowne,M18
+,Clos Peiriant,P17
+,Clos Tawe,I14
+,Clos Tyniad Glo,P17
+,Clos y Fulfran,P22
+,Clos Yr Harbwr,J20-K20
+,Clos Yr Wylan,O22-P23
+,Coed Bach,H11
+,Coed Criafol,S8-T8
+,Coed Mawr,H10-H11
+,Coed y Capel,H11
+,Coed-Y-Felin,H15-H16
+,Cog Road,AB15-AC14
+,Coigne Terrace,R14-R15
+,Colcot Road,K10-L15
+,Coldbrook Close,V9
+,ColdBrook Road East,T11-U8
+,Coldbrook Road West,S10-T11
+,Cold Knap Way,I22
+,Coleridge Crescent,L9-M9
+,Collard Crescent,N11-O12
+,College Fields Close,L14
+,College Place,L15-L16
+,College Road,L15-M17
+,Columbus Close,Q8
+,Column Street,Y13
+,Commercial Road,Q12-Q13
+,Conway Drive,H14-I13
+,Cook Road,Q7-Q8
+,Cora Street,P15-Q15
+,Corn Glas,T8-U8
+,Cornwall Rise,N12-O12
+,Cornwall Road,O12-P12
+,Coronation Street,P16-P17
+,Cory Way,Q17-R18
+,Cotswold Rise,S13
+,Cottrell Square,P10
+,Courtenay Road,S13
+,Court Road,Q15-R11
+,Cowbridge Street,S11
+,Coychurch Rise,Q8-R9
+,Cresswell Court,P10
+,Croffta,AC5
+,Croft Gardens,AC14-AC15
+,Crossfield Road,I16-J16
+,Crosshill,I22
+,Cross Street,P16-Q15
+,Crossways Street,Q14-R13
+,Crwys Lane,R10
+,Cudd Y Coed,T8-U8
+,Cwlwm Cariad,R7-R8
+,Cwm Barry Way,H17-I16
+,Cwm Ciddy Lane,E14-E16
+,Cwm Parc,I14-J14
+,Cwrt Aethen,R7
+,Cwrt Dyfed,U8
+,Cwrt Edward,M17
+,Cwrt Eirlys,Q7
+,Cwrt Pencoedtre,P8-Q9
+,Cynan Close,R10
+,Cyril Street,R15
+D
+,Dafydd Place,Q10
+,Dale Court,O9-P9
+,Daniel Street,Q11-R11
+,Dannog-Y-Coed,R6
+,David Davies Road,R18-T15
+,David Street,T10-T9
+,Davies Street,Q12-R13
+,Dawan Close,J14-J15
+,Devon Avenue,O13-P13
+,Digby Street,Q15-R15
+,Dingle Close,G20
+,Dobbins Road,U8-V11
+,Dock Road,O20-P20
+,Dock View Road,N16-S14
+,Donnington Road,Z12
+,Dorothy Avenue,M8
+,Dorothy Close,M8
+,Dorset Avenue,O13
+,DovedaleStreet,R12-R13
+,Dovey Close,H13
+,Dow Corning access road,W13
+,Dryden Terrace,N8-N9
+,Drylla,AB5-AB6
+,Dudley Place,J17-K16
+,Dunraven Street,I18-I19
+,Dyfan Road,P12
+,Dyffryn Place,K11
+,Dyfnallt Road,Q10-R10
+,Dyfrig Street,P20
+,Dylan Crescent,R10
+E
+,Earl Crescent,P20-P21
+,East Road,Z12-Z13
+,East Street,K17-L18
+,East View Terrace,K19
+,East Walk,L13-M14
+,Edmund Place,W12-W13
+,Edward Street,R10-S10
+,Eifion Close,Q10-Q9
+,Eithinen Ber,R7
+,Elan Close,I13-J13
+,Eleven Street,Y13-Z13
+,Elfed Way,R10
+,Elizabeth Avenue,M8-O6
+,Elm Grove,U10-U9
+,Enfield Drive,H11-I11
+,Esgid Mair,T8
+,Eton Street,H18-I19
+,Evans Street,O15
+,Evelyn Street,P15-Q14
+,Everard Street,R13-R14
+,Ewbank Close,U9-V9
+,Ewenny Close,Q9
+F
+,Fairford Street,R11-R12
+,Falcon Road,V11
+,Fern Drive,K14-K15
+,Ffordd Cwm Cidi,G16-H15
+,Ffordd Elin,V10-W10
+,Ffordd Gwyneth,U8-U9
+,Ffordd Sealand,M18
+,Ffordd y Mileniwm,M18-T13
+,Fforest Drive,H16
+,Field View Road,Q11-Q12
+,Five Mile Lane,A9-C10
+,Florence Avenue,M8
+,Foster Street,S13-T13
+,Fouracres Close,U10-V10
+,Francis Road,P7-Q8
+,Friars Road,M22-P21
+,Fryatt Street,P16
+,Furnace Street,Y13
+G
+,Gadlys Road East,L15
+,Gadlys Road West,K16
+,Gaen Street,I17-J17
+,Gaspard Place,J21
+,Gateholm Close,O8-O9
+,Gelyn-Y-Cler,R7-S7
+,George Street,Q15-R16
+,Geraint Place,Q10
+,Gerddi Margaret,M17
+,Gibbonsdown Close,Q10
+,Gibbonsdown Rise,P10-P12
+,Gilbert Lane,T6-V5
+,Gilbert Street,Q12-R12
+,Gladstone Bridge,N17
+,Gladstone Road,N16-T13
+,Glamorgan Street,I18-J18
+,Glanfa Dafydd,P18
+,Glanmore Crescent,K16-L15
+,Glan-Y-Mor,H22
+,Glaslyn Close,H14
+,Glas Y Llwyn,T7-T8
+,Glebe Street,Q12-R12
+,Glen Afric Close,K13
+,Glenbrook Close,V9
+,Glenbrook Drive,V9-W10
+,Glencoe Street,P13-P14
+,Glen Mavis Way,K13
+,Gloucester Close,O12-P12
+,Glynbridge Close,N6-O7
+,Glyndwr Road,M15-M16
+,Goldsland Place,I15
+,Goodwick Close,N10-O10
+,Gradon Close,U12
+,Greenacres,V11-X10
+,Greenbanks Drive,J13-K12
+,Greenfield Road,K10
+,Green Lane,T9-U10
+,Green Lawns,P10
+,Greenwood Street,N16-O16
+,Griffin Close,H10-H9
+,Guthrie Street,Q14-R14
+,Guy's Road,R14-S13
+,Gwalch Y Penwaig,O21
+,Gwenllian Street,V12-V13
+,Gwennol Y Craig,O22-P22
+,Gwennol Y Mor,O21
+,Gwilym Place,Q10-Q9
+H
+,Hafren Road,M15-M16
+,Hannah Street,Q12-Q13
+,Hanover Street,N14-O15
+,Harbour Road,J19-M21
+,Hardy Close,P8
+,Harlech Gardens,K10-L9
+,Harvey Street,S12-T13
+,Hawthorn Road,H17-I16
+,Hayes Lane,V17-W18
+,Hayes Road,AA15-V17
+,Hazledene Close,Q11
+,Heathfield Drive,L11
+,HeathfieldRoad,L10
+,Hebbles Lane,T10
+,Hellas Drive,I10-I9
+,Henry Street,V12-V13
+,Heol Broadland,M17
+,Heol Ceiniog,O17
+,Heol Cilffrydd,P17
+,Heol Dewi Sant,L16
+,Heol Eryr Mor,O22
+,Heol Fioled,R6-S7
+,Heol Gorswigen,S8-T8
+,Heol Gwendoline,M17
+,Heol Gwerthyd,Q7
+,Heol Gylfinir,O21
+,Heol Leubren,Q7-R6
+,Heol Miaren,T8
+,Heol Moor,H16
+,Heol Pantycelyn,K16-L16
+,Heol Sirhwi,H13
+,Heol-Y-Bryn,H22
+,Heol-Y-Cawl,AC2
+,Heol Y Frenhines,AB5-AC5
+,Heol Y Gaer,H22
+,Heol Y Llongau,P17
+,Heol-Y-Nant,Q11-R11
+,Heol Y Porthladd,O17-P17
+,Heosl Sirwi,H14
+,Herbert Street,Q11-Q12
+,Heritage Drive,J14-K15
+,Highfield Road,K10
+,Highlight Lane,H10-J10
+,Highlight Lane Footpath,H10
+,High Street,K18-L17
+,Highwalls Road,AA1-AC2
+,Hilda Street,M16-M17
+,Hillary Rise,S14
+,Hillside Close,U12-V12
+,Hill Street,S14-T13
+,Hinchsliff Avenue,K10-M8
+,Holland Way,R10
+,Hollyrood Close,H10
+,Holmes Street,S12-T13
+,Holton Road,N16-T13
+,Hood Road,K19-M18
+,Horton Way,Y13-Z13
+,Howard Court,I16-J16
+,Hunter Street,T12-T13
+,Hunt Place,S13
+,Hywel Crescent,P12-Q12
+I
+,Ilminster Close,R12
+,Ilminster Street,R12
+,Iolo Place,R10
+,Irving Place,M14
+,Island Road,K17-L18
+,Islwyn Way,Q10
+,Ivor Street,O20
+J
+,James Street,W12
+,Jenkin Street,S10-S11
+,Jenner Road,J17-L15
+,Jenner Street,T12-T13
+,Jewel Street,Q16-R14
+,John Street,V12
+,Jubilee Gardens,W10
+K
+,Kathleen Street,I17-J17
+,Keats way,M9
+,Kendrick Road,N16
+,Kenilworth Road,R12-S12
+,Kennedy Rise,I16
+,Kent Green,M14
+,Kingsland Crescent,P16-Q17
+,Kings Ride,AA2-AA3
+,Knap Car Terrace,F21-H22
+L
+,Lakeside,I21-I23
+,Lakin Drive,H10-I9
+,Laleston Close,P9-Q9
+,Langlands Road,U9-W11
+,Laugharne Court,O10
+,Laura Street,W12-X12
+,Lee Road,R12-R13
+,Lettons Way,AC1
+,Lewis Street,I17-J17
+,Lidmore Road,H15-I15
+,Liscum Way,I10-J11
+,Little Brynhill Lane,J8-K9
+,Little Moors Hill,T12-V12
+,Llandinam Road,M15-M16
+,Llanover Street,R12-S12
+,Llantwit Street,P15
+,Llewellyn St,Q12-R13
+,Lloyd Avenue,L13-M13
+,Llwyn David,M17
+,Llys Gwent,U9
+,Llys Y Coed,H16
+,Lombard Street,N15-O16
+,Lon Fferm Felin,H17
+,Long Acre Close,V9
+,Long Meadow Drive,P10-P11
+,Lowdon Terrace,M15-M16
+,Lower Guthrie Street,R14-R15
+,Lower Holmes Street,T13
+,Lower Morel Street,Q14-R15
+,Lower Pyke Street,Q15-R15
+,Lucas Close,U9-V9
+,Lydstep Road,N11-O9
+,Lynmouth Drive,AC16
+M
+,Maes Glas,H16
+,Maes-Y-Coed,G22-H21
+,Maes-y-Cwm Street,O14-Q14
+,Maes Yr Ysgol,L15-M14
+,Magellan Close,P8-Q8
+,Main Street,S11-T12
+,Manorbier Court,O9
+,Maple Close,P11
+,Margaret Avenue,N8
+,Marine Drive,E20-G21
+,Market Street,K18
+,Marlborough Close,U11
+,Marloes Close,N10-N11
+,Marquis Close,P20-P21
+,McQuade Place,M20-N20
+,Meadow Vale,U9
+,Meadow View,V9-W9
+,Meadow View Court,AB14
+,Meggitt Road,L8-M9
+,Meirion Close,R10
+,Melrose Street,S12
+,Melville Close,M7
+,Melyn Y Gors,T7-T8
+,Mendip View,T12
+,Merevale,AA3
+,Merganser Court,O16
+,Merlin Place,Q10
+,Merthyr Dyfan,N12
+,Merthyr Dyfan Rd,N12-N9
+,Merthyr Dyfan Road,N6-N9
+,Merthyr Street,O16-Q15
+,Michaelston Close,R8
+,Millwood Rise,H16-I17
+,Milton Road,M9-N9
+,Milward  Road,S13-S14
+,Minehead Avenue,AC15-AC16
+,Minster Close,S10-S9
+,Min-Y-Mor,G20-G21
+,Miskin Street,J20
+,Monmouth Way,O12
+,Montgomery Road,L17-M16
+,Morel Street,Q13-Q14
+,Morgan Street,R15
+,Morlais Street,V13
+,Morningside Walk,N7
+,Mountbatten Road,P7-P8
+,Mount Pleasant,S12
+,Mount Road,AA3-AC3
+,Moxon Street,T12
+,Munro Place,L13-M13
+,Myrtle Grove,U10-U11
+N
+,Nant Talwg Way,F15-G15
+,Narbeth Court,O10-P10
+,Neale Street,M13
+,Nelson Road,P8
+,Newgale Close,N10-O10
+,Newlands Street,O14-O15
+,Newton Street,R13
+,Neyland Court,O10-P10
+,Northcote Terrace,T12-U12
+,North Road,Y12-Z12
+,North Walk,K13-M13
+,Norwood Crescent,U11
+O
+,Oakfield Road,J10
+,Oban Street,S12
+,O'Donnell Road,Q10-R11
+,Ogmore Place,P9
+,Old Farm Mews,AC3
+,Oldmill Road,U11-U12
+,Old Village Road,I19-J19
+,Orchard Drive,O12-O13
+,Owens Close,M14
+,Oxford Street,H19-I18
+P
+,Paddock Place,S10
+,Paget Road,L22-M22
+,Palmerston Road,V11-W13
+,Palmer Street,V10
+,Pardoe Crescent,M14-N14
+,Park Avenue,I21-J20
+,Park Crescent,J17-J19
+,Park Road,H19-J19
+,Pearce Court,Q10-Q9
+,Pencoedtre Lane,Q6
+,Pencoedtre Road,Q7-S10
+,Pendine Close,O8-O9
+,Pendoylan Close,R8
+,Pen-Y-Bryn,G21
+,Peterswell Road,I16-J15
+,Philadelphia Close,V11
+,Phyllis Street,M20-O20
+,Pioden For,O22
+,Plas Cleddau,I14
+,Plas Gwernen,S8
+,Pleasant View,L8
+,Plymouth Road,M21-O20
+,Poets Field Road,M10-M9
+,Pontalun Close,P9-Q9
+,Pontypridd Road,G14-J17
+,Pontypridd Street,S12
+,Poplar Court,P10
+,Porthkerry Park,B20-H19
+,Porthkerry Road,J19-L17
+,Porth-Y-Castell,F20-H19
+,Port Mews,O6
+,Port Road,K10-R4
+,Port Road East,K9-N6
+,Port Road West,A16-K10
+,Powell Duffryn Way,M18-M20
+,Powis View,T10-U11
+,Price Avenue,R11-S11
+,Princes Street,K18-L17
+,Priory Gardens,S9-T9
+,Proctor Close,I15-J15
+,Purdey Close,I11-I12
+,Pyke Street,Q13-Q15
+Q
+,Quarella Street,S13-T12
+,Queen Street,K18-L17
+,Queens Way,Q19-R19
+R
+,Raldan Close,R9-S9
+,Ramsey Road,O9-P10
+,Ravenshoe Road,V10-V11
+,Rectory Road,R13-S13
+,Redberth Close,N10-O10
+,Redbrink Crescent,O20-P21
+,Regent Street,N14-O15
+,Rheidol Drive,G14-H14
+,RhodfaFelin,H16-H17
+,Rhodfa'r Gwagenn,O17
+,Rhodfa Sweldon,M17-M18
+,Richard Street,O15
+,Ridgeway Road,J10
+,Riverside Place,V13
+,Robert Street,R14-S14
+,Robins Lane,S10-S11
+,Romilly Avenue,I19-I20
+,Romilly Park Road,H20-I21
+,Romilly Road,J17-J19
+,Rookery Close,AB14-AC14
+,Rookery Wood,AB14
+,Runcorn Close,V10-V11
+,Ruthen Terrace,K15
+,Rutland Close,H10-H9
+S
+,Saint Marys Avenue,P15
+,Saint Nicholas Road,J20
+,Saint Paul's Avenue,L17-M16
+,Salisbury Road,I17-I18
+,Sandringham Close,H9-I9
+,Sealawns,I22-I23
+,Sea View Terrace,S11-U11
+,Senni Close,I13-I14
+,Severn Avenue,H15-J15
+,Shakespeare Road,N8-N9
+,Shelley Crescent,M9-N9
+,Sherbourne Close,G10-H10
+,Shirley Close,V10
+,Skomer Road,N9-S8
+,Slade Road,N11-N12
+,Solent Road,U9-V9
+,Solva Close,O11
+,Somerset Road,N14-O13
+,Somerset Road East,O13-P13
+,Southesk Place,I21-J21
+,Southey Street,N14-O14
+,Southra,AA4-AC4
+,South Road,AA15-AC15
+,South Walk,L13-L14
+,Spencer Street,O15
+,Spires Walk,S10-S9
+,Springfield Rise,Q11-R10
+,Spring Street,V12-V13
+,St Ambrose Close,AC4
+,St Andrew's Road,M13-N13
+,St Andrews Road,U1-X1
+,St. Andrews Road,U2-V5
+,St Ann's Court,P10
+,Station Approach Road,M21-N21
+,Station Road,AC2-AC4
+,Station Street,P15-Q17
+,St Brannocks Close,H15-I14
+,St Bride's Way,P10-S8
+,St Cadoc's Rise,W9
+,St Catherine's Court,O9-P9
+,St Fagans Avenue,M13
+,St Govan's Close,O9
+,Stirling Road,I10-I12
+,St James Crescent,G15
+,St Julian Close,U11-V11
+,St Lythans Road,I14-I15
+,St. Lythans Road,A6-E1
+,St Mary's Avenue,P15-Q16
+,St Michaels Gardens,M9
+,St. Nicholas Court,J20
+,St. Nicholas' Road,J19-J20
+,St Oswald's Road,T11
+,St Paul's Avenue,M16-N15
+,Stradling Close,H14
+,St Teilo Avenue,M13-N12
+,Subway Road,P17
+,Sully Moors Road,AA14-Z11
+,Sully View,X11-Y11
+,Suran Y Gog,S7-S8
+,Swn-Y-Mor,E20-F20
+,Sycamore Crescent,P10
+T
+,Taf Close,I13-I14
+,Tank Farm Way,Y13-Z14
+,Tan-Y-Fron,F20-G20
+,Teifi Drive,I14
+,Tennyson Road,M9-N10
+,Tensing Terrace,S14
+,The Crescent,G15-H15
+,The Grove,I20-J20
+,The Heathers,K14-K15
+,The Mount,AB3
+,The Pastures,L10-M11
+,The Promenade,L22-O23
+,Thistle Close,J13
+,Thompson Street,O15-P16
+,Tordoff Way,M14-N13
+,Tower Way,Y13
+,Treharne Road,P10-S10
+,Trem Mapgoll,R7
+,Trem Powys,U8-U9
+,Trem Y Coed,S7-T7
+,Trem Y Don,E21-G20
+,Trinity Street,K16-L17
+,Twyncyn,AA2-AB3
+,Tydfil Street,R13-R14
+,Tynewydd Road,N13-P15
+U
+,Usk Way,I13
+V
+,Vale Street,I18-J18
+,Vale View,K9
+,Vere Street,T12-T13
+,Verlon close,X11-Y12
+,Viaduct Road,R16-S17
+,Victoria Park Road,S11-U11
+,Victoria Road,H19-I18
+,Vincent Close,U10-V10
+W
+,Walker Road,M14-N14
+,Warwick Way,O12-P12
+,Watson Street,Q14-Q15
+,Waycock Cross,F14-G14
+,Waycock Road,C10-F14
+,Welford Street,J19
+,Well Walk,I21
+,Wenvoe Golf Club Access Road,P1-P3
+,Wenvoe Terrace,K16-K17
+,Wessex Place,I21-I22
+,Westbury Close,R10-R11
+,Weston Square,T13
+,Weston Street,S13-T13
+,Westra,V5-Z3
+,West Walk,K13-L14
+,Westward Rise,E20-H19
+,Whitewell Road,K10-M10
+,Whitmore Park Drive,I11
+,Wilfred Street,R14-S14
+,Williams Crescent,M14-M15
+,Willows Crescent,P11-Q11
+,Wimborne Road,T14-V17
+,Windsor Road,J18-K19
+,Winifred Avenue,M8-M9
+,Winston Road,K10-N8
+,Wolfe Close,U10-V10
+,Woodham Close,K13
+,Woodham Park,K13-L12
+,Woodham Road,R17
+,Woodlands Road,N15-Q14
+,Woodstock Close,J15-K15
+,Wye Close,H14
+,Wyndham Street,P15-Q14
+,Wynd Street,R13-S13
+Y
+,York Place,J18-K18
+,Y Rhodfa,N18-O18
+Places of worship
+,All Saints Church,J19
+,Bethel Baptist Church,J19
+,Church of Saint Baruc,N20
+,Church of Saint Mary The Blessed Saint,P15
+,Crossway Methodist Church,Q14
+,Eglwys Annibynnol Gymraeg Y Barri,P15
+,Holy Trinity Presbyterian Church,L17
+,New Jerusalem Congregational Church,O15-P15
+,Parkside Christian Centre,Q9
+,Saint David's Methodist Church,K10-L10
+,Saint Helen's Roman Catholic Church,P14
+,Saint Paul The Apostle Church,M16
+,Salem Baptist Church,N16
+,Seventh Day Adventist Church,Q15
+,Windsor Road United Reformed Church,J18
+Education
+,Barry Boys Comprehensive School,J11
+,Barry College,J13-J14
+,Barry Island Primary school,N20
+,Bryn Hafren Comprehensive School,O6-Q6
+,High Street Primary School,L16-L17
+,Holton Primary School,Q14-Q15
+,Saint Helen's Roman Catholic Infant School,P14-Q14
+Public buildings
+,Civic Offices,N16
+,Job Centre Plus,N16
+,Vale Street Post Office,J18
+Villages
+,Porthkerry,A21
